@@ -1,0 +1,42 @@
+.sidebar{
+    background-color: blueviolet;
+    width: 200px;
+    height: 150px;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.sidebar ul{
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li{
+    margin: 15px 0;
+}
+
+.sidebar ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar ul li a:hover{
+    text-decoration: underline;
+}
+
+body{background-color: black;
+    color: white;}
+
+    h1{color:orange}
+
+    H2{color: aliceblue;
+    font-style: italic;}
+
+    h3{color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+    h4{color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
